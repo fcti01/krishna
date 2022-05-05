@@ -1,0 +1,42 @@
+.body {
+    background-image: url("bg1.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.sec1 {
+    display: flex;
+}
+
+.wblogo {
+    width: 150px;
+    
+}
+
+.div2 {
+    margin-left: 1400px;
+}
+
+.h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 50px;
+}
+.hr {
+    height: 10px;
+    background-color: blue;
+    width: 40%;
+    margin-top: -40px;
+}
+
+.img1 {
+    width: 600px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
+}

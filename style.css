@@ -1,0 +1,83 @@
+div {
+    
+    width: 50%;
+}
+
+.sec1 {
+    display: flex;
+}
+
+.img1 {
+    width: 400px;
+}
+
+.blue {
+    color: blue;
+}
+.button {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 20px;
+    width: 200px;
+
+}
+.center {
+    text-align: center;
+}
+
+
+.button:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 20px;
+    width: 200px;
+}
+ .button a {
+     color: white;
+     text-decoration: none;
+ }
+
+ .side-line {
+     border-left: 4px solid red;
+ }
+
+ .icon {
+     width: 60px;
+     margin-left: 50px;
+     margin-top: 50px;
+ }
+
+ .sec2 {
+     display: flex;
+ }
+
+ .box1 {
+     width: 30%;
+
+     margin-left: 25px;
+     height: 400px;
+     border-radius: 30px;
+ }
+
+ .h2{
+     margin-left: 20px;
+ }
+ .p {
+     margin: 20px;
+ }
+ .tab1 {
+     background-color: pink;
+ }
+
+ .tab2 {
+     background-color: antiquewhite;
+ }
+.tab3 {
+    background-color: rgb(5, 139, 139);
+}
